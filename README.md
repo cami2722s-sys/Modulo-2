@@ -1,8 +1,23 @@
-# Entrega
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Link Git Hub |
-|:-------:|:------:|:-----------:|:---------:|:---------:|
-| Aguilar | Maite Julieta | aguilar.maite.j@gmail.com | 2616114141 | https://github.com/aguilarmaite/Modulo_2 |
-| Alarcón | Rocio | alarcon.rocio.1h1@gmail.com | 2614602671 |
-| Bielsa | Franca | francabielsa@gmail.com | 2615792401 |
-| Coronado Pungitore | Ignacio Martin | ignaciomcoronadopungitore@gmail.com | 2612161983 | https://github.com/Igna-Coronado24/Modulo_2 |
-| Sotelo | Camila Noelia | camisote2704@gmail.com | 2616505923 | https://github.com/cami2722s-sys/Modulo-2 | 
+# Modulo_1
+
+---
+
+**Ejercicio 1: Cómo crear, modificar y hacer un archivo README.md**
+
+**Ejercicio 2: Creación de un archivo HTML de forma manual.**
+
+**Ejercicio 3: Crear un archivo LaTex en <https://es.overleaf.com/>**
+
+**Ejercicio 4: Creación de Notebooks**
+
+**Ejercicio 5: Creación de un CV en un archivo LaTex.**
+
+**Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
+
+---
+
+<https://github.com/aguilarmaite/Modulo_1>
+<https://github.com/Igna-Coronado24/Modulo1>
+<https://github.com/rocio-alarcon/Modulo_1>
+<https://github.com/cami2722s-sys/Modulo_1 >
+<https://github.com/francabielsa-rgb/Modulo_1>
