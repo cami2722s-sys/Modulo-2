@@ -1,4 +1,4 @@
-# Modulo-2
+# Entrega
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Link Git Hub |
 |:-------:|:------:|:-----------:|:---------:|:---------:|
 | Aguilar | Maite Julieta | aguilar.maite.j@gmail.com | 2616114141 | https://github.com/aguilarmaite/Modulo_2 |
